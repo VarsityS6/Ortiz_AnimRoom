@@ -21,7 +21,7 @@
   </Component>
   <WorkspaceState>
     <LastBuildConfiguration>Debug</LastBuildConfiguration>
-    <LastBuildGameFileName>DataFile=Ortiz_AnimRoom,Windows=Ortiz_AnimRoom,</LastBuildGameFileName>
+    <LastBuildGameFileName>DataFile=Ortiz_AnimRoom,Windows=Ortiz_AnimRoom,_Debug=Ortiz_AnimRoom,</LastBuildGameFileName>
     <RequiresRebuild>False</RequiresRebuild>
   </WorkspaceState>
 </AGSEditorUserData>
