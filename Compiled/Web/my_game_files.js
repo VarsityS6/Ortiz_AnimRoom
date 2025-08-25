@@ -1,0 +1,1 @@
+var gamefiles = ['Ortiz_AnimRoom.ags', 'acsetup.cfg'];
