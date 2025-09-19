@@ -4992,7 +4992,12 @@
                     <Sprites />
                   </SpriteFolder>
                   <SpriteFolder Name="BENJAMIN">
-                    <SubFolders />
+                    <SubFolders>
+                      <SpriteFolder Name="Jump">
+                        <SubFolders />
+                        <Sprites />
+                      </SpriteFolder>
+                    </SubFolders>
                     <Sprites>
                       <Sprite Slot="77" Width="25" Height="50" ColorDepth="32" Resolution="Real" AlphaChannel="True">
                         <Source>
